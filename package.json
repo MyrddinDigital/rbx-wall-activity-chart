@@ -1,0 +1,26 @@
+{
+  "name": "rbx-wall-activity-chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "serve dist/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayvolr/rbx-wall-activity-chart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayvolr/rbx-wall-activity-chart/issues"
+  },
+  "homepage": "https://github.com/jayvolr/rbx-wall-activity-chart#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
