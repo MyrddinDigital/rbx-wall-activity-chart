@@ -1,4 +1,4 @@
-# Chart ROBLOX group wall activity over time
+# 📈 Chart ROBLOX group wall activity over time
 
 Export chart data:
 ```
