@@ -1,4 +1,4 @@
-# Roblox group wall activity charter
+# Chart ROBLOX group wall activity over time
 
 Export chart data:
 ```
