@@ -1,1 +1,1 @@
-# nfc-wall-data
+# Roblox group wall activity charter
