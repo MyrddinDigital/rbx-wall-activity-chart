@@ -5,6 +5,13 @@
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
 
+<script>
+  // Allow wall.nightfallclan.com/graph to listen to scroll events (this page is embedded there in an iframe)
+  window.addEventListener('scroll', () => {
+    window.parent.postMessage({ type: 'scroll', scrollY: window.scrollY }, '*');
+  });
+</script>
+
 <div id="content">
     <h1>Wall posts across time on the Nightfall Clan group page</h1>
 
